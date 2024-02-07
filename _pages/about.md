@@ -22,4 +22,9 @@ Published works
 1. B.H. Xu and L. Yu. A novel regularized adaptive matching pursuit from moving force identification using multiple criteriaandpriorknowledge[J]. International Journal of Structural Stability and Dynamics, 23(10) (2023) 2350117. [doi](https://doi.org/10.1142/S0219455423501171) [pdf](https://xbohos.github.io/assets/IJSSD2350117.pdf).
 2. B. H. Xu, Y. H. Chen and L. Yu. Identification of Moving Vehicle Loads Using Instantaneous Vision-Based Vehicle Spatiotemporal Information and Improved Time Domain Method[J]. International Journal of Structural Stability and Dynamics, 2023: 2450163. [doi](https://doi.org/10.1142/S0219455424501633) [pdf](https://xbohos.github.io/assets/IJSSD2450163.pdf).
 
+Reproductions of articles
+======
+1. H.L. Liu, Z.W. Luo and L.Yu*. A semi-convex function for both constant and time-varying moving force identification[J]. Mechanical Systems and Signal Processing, 2021, 146: 107062. [doi](https://doi.org/10.1016/j.ymssp.2020.107062) [code](https://github.com/xbohos/a-semi-convex-function-for-moving-force-identification).
+2. Zhang J. Optimal implicit single-step time integration methods with equivalence to the second-order-type linear multistep methods for structural dynamics: Accuracy analysis based on an analytical framework[J]. Computer Methods in Applied Mechanics and Engineering, 2024, 418: 116503. [doi](https://doi.org/10.1016/j.cma.2023.116503) [code](https://github.com/xbohos/Optimal-implicit-single-step-time-integration-methods).
+
 
