@@ -10,7 +10,8 @@ redirect_from:
 
 Hi! I am a PhD student at Jinan University. My research focus is on numerical methods for inverse problems about moving load identification and structural damage detection. I am advised by [Prof. Yu](https://lxxy.jnu.edu.cn/2021/0713/c3706a637375/page.htm) from Hong Kong Polytechnic University. 
 
-On this website, I present some of my research and write about topics that I found interesting, mostly related to reproductions of articles and notes on mechanics.
+On this website, I present some of my research and write about topics that I found interesting, mostly related to reproductions of articles and notes on mechanics. 
+
 You can contact with me here: [Email](mailto:xbohos@163.com)
 
 Research interests
