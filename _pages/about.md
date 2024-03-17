@@ -20,7 +20,7 @@ Structural health monitoring, inverse problems, vehicle-bridge interaction, movi
 
 Published works
 ======
-1. B.H. Xu and L. Yu. A novel regularized adaptive matching pursuit from moving force identification using multiple criteriaandpriorknowledge[J]. International Journal of Structural Stability and Dynamics, 23(10) (2023) 2350117. [doi](https://doi.org/10.1142/S0219455423501171) [pdf](https://xbohos.github.io/assets/IJSSD2350117.pdf).
+1. B.H. Xu and L. Yu. A novel regularized adaptive matching pursuit from moving force identification using multiple criteriaandpriorknowledge[J]. International Journal of Structural Stability and Dynamics, 23(10) (2023) 2350117. [doi](https://doi.org/10.1142/S0219455423501171) [pdf](https://xbohos.github.io/assets/IJSSD2350117.pdf) [code](https://github.com/xbohos/A-Novel-adapative-matching-pursuit-algorithm-for-moving-force-identification-).
 2. B. H. Xu, Y. H. Chen and L. Yu. Identification of Moving Vehicle Loads Using Instantaneous Vision-Based Vehicle Spatiotemporal Information and Improved Time Domain Method[J]. International Journal of Structural Stability and Dynamics, 2023: 2450163. [doi](https://doi.org/10.1142/S0219455424501633) [pdf](https://xbohos.github.io/assets/IJSSD2450163.pdf).
 
 Reproductions of articles
