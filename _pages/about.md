@@ -22,6 +22,7 @@ Published works
 ======
 1. B.H. Xu and L. Yu. A novel regularized adaptive matching pursuit from moving force identification using multiple criteriaandpriorknowledge[J]. International Journal of Structural Stability and Dynamics, 23(10) (2023) 2350117. [doi](https://doi.org/10.1142/S0219455423501171) [pdf](https://xbohos.github.io/assets/IJSSD2350117.pdf) [code](https://github.com/xbohos/xbohos-A-Novel-adapative-matching-pursuit-algorithm-for-moving-force-identification-).
 2. B. H. Xu, Y. H. Chen and L. Yu. Identification of Moving Vehicle Loads Using Instantaneous Vision-Based Vehicle Spatiotemporal Information and Improved Time Domain Method[J]. International Journal of Structural Stability and Dynamics, 2023: 2450163. [doi](https://doi.org/10.1142/S0219455424501633) [pdf](https://xbohos.github.io/assets/IJSSD2450163.pdf).
+3. B. H. Xu , Z. L. Hou, Y. H. Chen and L. Yu. Accurate identification of moving vehicle loads on beam-like bridge structures integrating novel PCA-based dictionary with grouping and weighting strategy[J]. Engineering Structures, 2025, 322: 119147.[doi](https://doi.org/10.1016/j.engstruct.2024.119147)[pdf]
 
 Reproductions of articles
 ======
